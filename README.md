@@ -30,7 +30,7 @@
 <div
 I am a QA engeneer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
-- :lady_beetle: I’m working as a Qualitu Assurence Engineer and contributing to testing frontend and backend for  web applications.
+- :lady_beetle: I’m working as a Quality Assurance Engineer and contributing to testing frontend and backend for  web applications.
 
 - :seedling: Exploring automated software testing (AQA)
 
